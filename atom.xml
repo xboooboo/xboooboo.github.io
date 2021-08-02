@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xbooob.github.io</id>
+    <id>https://xboooboo.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-02T16:36:23.194Z</updated>
+    <updated>2021-08-02T16:48:26.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xbooob.github.io"/>
-    <link rel="self" href="https://xbooob.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xboooboo.github.io"/>
+    <link rel="self" href="https://xboooboo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://xbooob.github.io/images/avatar.png</logo>
-    <icon>https://xbooob.github.io/favicon.ico</icon>
+    <logo>https://xboooboo.github.io/images/avatar.png</logo>
+    <icon>https://xboooboo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[111]]></title>
-        <id>https://xbooob.github.io/111/</id>
-        <link href="https://xbooob.github.io/111/">
+        <id>https://xboooboo.github.io/111/</id>
+        <link href="https://xboooboo.github.io/111/">
         </link>
         <updated>2021-08-02T16:11:13.000Z</updated>
         <content type="html"><![CDATA[<p>3231231312</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xbooob.github.io/hello-gridea/</id>
-        <link href="https://xbooob.github.io/hello-gridea/">
+        <id>https://xboooboo.github.io/hello-gridea/</id>
+        <link href="https://xboooboo.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
