@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xboooboo.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-02T16:59:04.895Z</updated>
+    <updated>2021-08-03T14:10:32.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xboooboo.github.io"/>
     <link rel="self" href="https://xboooboo.github.io/atom.xml"/>
@@ -11,12 +11,29 @@
     <icon>https://xboooboo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[111]]></title>
+        <title type="html"><![CDATA[Witee - 区块链数字货币服务平台]]></title>
         <id>https://xboooboo.github.io/111/</id>
         <link href="https://xboooboo.github.io/111/">
         </link>
         <updated>2021-08-02T16:11:13.000Z</updated>
-        <content type="html"><![CDATA[<p>3231231312</p>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>项目简介</p>
+<p>Witee是一款去看了数字货币服务平台，系统集成数字货币相关数据实时共享、智能化投资策略供给、数字资产的投资托管等多元服务模块。</p>
+</li>
+<li>
+<p>负责范畴</p>
+<p>负责产品Web端的UI设计，页面标注及切图输出供开发使用，后期的界面优化及交互优化工作。</p>
+</li>
+<li>
+<p>界面展示</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://xboooboo.github.io/post-images/1627999647976.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://xboooboo.github.io/post-images/1627999664464.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://xboooboo.github.io/post-images/1627999688633.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://xboooboo.github.io/post-images/1627999699484.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://xboooboo.github.io/post-images/1627999706959.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
