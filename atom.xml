@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xboooboo.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-03T14:10:32.753Z</updated>
+    <updated>2021-08-03T14:23:21.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xboooboo.github.io"/>
     <link rel="self" href="https://xboooboo.github.io/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>https://xboooboo.github.io/images/avatar.png</logo>
     <icon>https://xboooboo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[币八戒 - 创意及服务]]></title>
+        <id>https://xboooboo.github.io/bi-ba-jie-chuang-yi-ji-fu-wu/</id>
+        <link href="https://xboooboo.github.io/bi-ba-jie-chuang-yi-ji-fu-wu/">
+        </link>
+        <updated>2021-08-03T14:18:00.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>项目简介</p>
+<p>币八戒提供的服务（任务）类型涵盖面广，不管是法律服务、社区运营、天使投资、合约开发、矿机收售、媒体推广、活动峰会等等，都可以在这里找到自己想要的创意及服务。</p>
+</li>
+<li>
+<p>负责范畴</p>
+<p>负责产品Web端的ui设计，页面标注及切图输出供开发使用，后期的界面优化及交互优化工作。</p>
+</li>
+<li>
+<p>界面设计</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://xboooboo.github.io/post-images/1628000328703.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[销售宝典 - 聊天话术]]></title>
+        <id>https://xboooboo.github.io/xiao-shou-bao-dian-liao-tian-hua-zhu/</id>
+        <link href="https://xboooboo.github.io/xiao-shou-bao-dian-liao-tian-hua-zhu/">
+        </link>
+        <updated>2021-08-03T14:11:05.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>项目简介</p>
+<p>销售宝典是一款含多行业、多场景的聊天话术平台。包含了教育培训、会议营销、房产置业等行业话术，是用户提升聊天话术的不二之选。</p>
+</li>
+<li>
+<p>负责范畴</p>
+<p>负责项目中的logo、图标按钮等相关元素的设计与制作。对页面进行优化，使用户操作更趋于人性化。</p>
+</li>
+<li>
+<p>界面设计</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://xboooboo.github.io/post-images/1627999920708.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://xboooboo.github.io/post-images/1627999931765.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Witee - 区块链数字货币服务平台]]></title>
         <id>https://xboooboo.github.io/111/</id>
